@@ -21,6 +21,7 @@ To Run locally:
 
 *Download zip files to your local machine
 * On the command line, cd into the project directory.
+* Be sure to run a  "bundle install" to download the required gems to the project.
 * Once you're in the project directory type:  $ rails s 
 * In your web-browser, go to localhost:3000. 
 
